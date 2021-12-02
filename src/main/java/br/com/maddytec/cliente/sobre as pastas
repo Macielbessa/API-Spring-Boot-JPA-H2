@@ -1,0 +1,3 @@
+Repository -> dao (Camada de persistencia do JPA) - (usa a Entity)
+Service -> Lógica / Regra de negocio da App  - (usa o repository)
+Controller -> Rotas http / End Point Rest API - (usa o Service)
